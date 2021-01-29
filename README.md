@@ -1,4 +1,4 @@
-# Portfolio: Games Development - Stephane Emptage
+# Games Development Portfolio - Stephane Emptage
 
 ## Introduction
 
