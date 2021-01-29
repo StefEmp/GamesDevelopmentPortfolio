@@ -17,7 +17,8 @@ The game is created using the Unreal Engine and C++, the functionality of the te
 
 
 ### Netrunner - **[Link](https://github.com/StefEmp/Netrunner)**
-Netrunner is a basic game coded in C++. You are a hacker, you need to figure out the correct codes to progress. There are 5 levels to complete. The game is played in your terminal. I used this project to transfer my understanding of object oreintated programming from other languages to C++. If you want to watch a video summary click the image below![![Netrunner](/netrunner.PNG)](https://youtu.be/zcMQp_VILNs "Netrunner")
+Netrunner is a basic game coded in C++. You are a hacker, you need to figure out the correct codes to progress. There are 5 levels to complete. The game is played in your terminal. I used this project to transfer my understanding of object oreintated programming from other languages to C++. If you want to watch a video summary click the image below!
+[![Netrunner](/netrunner.PNG)](https://youtu.be/zcMQp_VILNs "Netrunner")
 
 ## Other Projects
 
