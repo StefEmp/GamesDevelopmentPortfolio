@@ -29,7 +29,7 @@ ReactSite is a projected created by Stephane Emptage and Alex Paiu whilst traini
 
 ### Soma - **[Link](https://soma10.bandcamp.com/releases)**
 Soma is a band I sing and compose music for.
-[![Soma](/soma.PNG)](https://soma10.bandcamp.com/releases "Soma")
+[![Soma](/soma.png)](https://soma10.bandcamp.com/releases "Soma")
 
 
 ### The Wonky Gamer - **[Link](https://www.wonkyspanner.com/podcasts/wonky-gamer)** 
