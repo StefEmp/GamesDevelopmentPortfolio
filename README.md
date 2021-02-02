@@ -1,6 +1,6 @@
-# Games Development Portfolio - Stephane Emptage
-
 ![Title](/title.PNG)
+
+# Games Development Portfolio - Stephane Emptage
 
 ## Introduction
 
