@@ -7,6 +7,11 @@ I am a budding game developer, hoping to break into the industry. I am close to 
 
 ## My Projects
 
+### Overview
+
+To translate my knowledge of object oriented programming from JavaScript and C# to C++ and the Unreal Engine I am following **[this](https://www.udemy.com/course/unrealcourse/)**  course on udemy. I have avoided Blueprint heavy courses. This is mainly because while blueprints are very useful (and I have been using them in a side project) I want to ensure I have a good core understanding of C++ as I understand that more complex work in the games industry relies upon C++ more often than blueprints.
+
+
 ### Escape The Building - **[Link](https://github.com/StefEmp/EscapeTheBuilding)** 
 This game is about escaping a building (I know, it says it all in the title!). The game currently is set in a single building. The player can stand on a trigger button to open the door. While asset placement and texturing has been done in engine, the mechanics are done using C++ as opposed to Blueprints. For example the door opening and closing mechanics are coded into the game using C++. I am currently in the process of implementing physics and my next focus will be to apply weight to objects which can be placed upon the trigger volume. If the right weight is used it will keep the door open. This has been a fun project, where I have been learning about pointers, FVectors and implementing game designer friendly parameters using UPROPERTY. If your a potential employer, this project may be finished by the time you read this, as I am close to finishing.
 
