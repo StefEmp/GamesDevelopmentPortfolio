@@ -9,7 +9,7 @@ I am a budding game developer, hoping to break into the industry. I am close to 
 
 ### Overview
 
-To translate my knowledge of object oriented programming from JavaScript and C# to C++ and the Unreal Engine I am following **[this](https://www.udemy.com/course/unrealcourse/)**  course on udemy. I have avoided Blueprint heavy courses. This is mainly because while blueprints are very useful (and I have been using them in a side project) I want to ensure I have a good core understanding of C++ as I understand that more complex work in the games industry relies upon C++ more often than blueprints.
+To translate my knowledge of object oriented programming from JavaScript and C# to C++ and the Unreal Engine I am following **[this](https://www.udemy.com/course/unrealcourse/)**  course on udemy. I have avoided blueprint heavy courses for the time being. This is mainly because while blueprints are very useful (and I have been using them in a side project) I want to ensure I have a good core understanding of C++ as I understand that more complex work in the games industry relies upon C++ more often than blueprints.
 
 
 ### Escape The Building - **[Link](https://github.com/StefEmp/EscapeTheBuilding)** 
