@@ -11,6 +11,8 @@ I am a budding game developer, hoping to break into the industry. I am close to 
 
 To translate my knowledge of object oriented programming from JavaScript and C# to C++ and the Unreal Engine I am following **[this](https://www.udemy.com/course/unrealcourse/)**  course on udemy. I have avoided blueprint heavy courses for the time being. This is mainly because while blueprints are very useful (and I have been using them in a side project) I want to ensure I have a good core understanding of C++ as I understand that more complex work in the games industry relies upon C++ more often than blueprints.
 
+I will over time be adding video links to showcase my understanding and also to hopefully make it easier for potential employers to see my projects without necessarily having to look through all my code (unless they want to!).
+
 
 ### Escape The Building - **[Link](https://github.com/StefEmp/EscapeTheBuilding)** 
 This game is about escaping a building (I know, it says it all in the title!). The game currently is set in a single building. The player can stand on a trigger button to open the door. While asset placement and texturing has been done in engine, the mechanics are done using C++ as opposed to Blueprints. For example the door opening and closing mechanics are coded into the game using C++. I am currently in the process of implementing physics and my next focus will be to apply weight to objects which can be placed upon the trigger volume. If the right weight is used it will keep the door open. This has been a fun project, where I have been learning about pointers, FVectors and implementing game designer friendly parameters using UPROPERTY. If your a potential employer, this project may be finished by the time you read this, as I am close to finishing.
@@ -23,7 +25,9 @@ The game is created using the Unreal Engine and C++, the functionality of the te
 
 
 ### Netrunner - **[Link](https://github.com/StefEmp/Netrunner)**
-Netrunner is a basic game coded in C++. You are a hacker, you need to figure out the correct codes to progress. There are 5 levels to complete. The game is played in your terminal. I used this project to transfer my understanding of object oreintated programming from other languages to C++. If you want to watch a video summary click the image below!
+Netrunner is a basic game coded in C++. You are a hacker, you need to figure out the correct codes to progress. There are 5 levels to complete. The game is played in your terminal. I used this project to transfer my understanding of object oreintated programming from other languages to C++. 
+**If you want to watch a video summary click the image below!**
+
 [![Netrunner](/netrunner.PNG)](https://youtu.be/zcMQp_VILNs "Netrunner")
 
 ## Other Projects
