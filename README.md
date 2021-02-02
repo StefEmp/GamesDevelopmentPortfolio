@@ -4,9 +4,7 @@
 
 I am a budding game developer, hoping to break into the industry. I am close to finishing an Apprenticeship in Software Development Level 4 (end date March 2021). I have been spending most of my free time learning C++ and the Unreal Engine. You can see some of my projects below and a description about what they do. 
 
-### My CV - **[Link](https://github.com/StefEmp/GamesDevelopmentPortfolio/blob/main/CV%20Stephane%20Emptage.pdf)** 
-
-
+## My CV - **[Link](https://github.com/StefEmp/GamesDevelopmentPortfolio/blob/main/CV%20Stephane%20Emptage.pdf)** 
 
 ## My Projects
 
