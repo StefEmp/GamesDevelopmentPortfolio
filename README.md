@@ -36,5 +36,5 @@ Soma is a band I sing and compose music for.
 ### The Wonky Gamer - **[Link](https://www.wonkyspanner.com/podcasts/wonky-gamer)** 
 The Wonky Gamer is a podcast I host based on gaming news for the Wonky Spanner website. 
 
-[![Wonky Gamer](/wonkygamer.PNG)](https://www.wonkyspanner.com/podcasts/wonky-gamer "Wonky Gamer")
+[![Wonky Gamer](/wonkygamer.png)](https://www.wonkyspanner.com/podcasts/wonky-gamer "Wonky Gamer")
 
