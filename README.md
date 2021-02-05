@@ -31,6 +31,7 @@ While asset placement and texturing has been done in engine, the mechanics are d
 Bull Cow Game is set in a 3D world. You have a sign post which you can type into. Once in the game press TAB to use the terminal.
 The basic idea is you need to guess the word. The word will be an "Isogram" an Isogram is a word that does not have repeating letters. 
 The game is created using the Unreal Engine and C++, the functionality of the terminal has been coded using C++ while the 3D aspects are done using the Unreal engine, such as asset placement, lighting, terrain and map generation. The main purpose of this project was learn C++ and implementing things such as loops, functions, arrays and other useful forms of C++.
+
 **If you want to watch a video summary click the image below!**
 
 [![BullCowGame](/BullCowGameImage.PNG)](https://youtu.be/ObVzNoW1jsE "BullCowGame")
