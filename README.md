@@ -27,11 +27,13 @@ Following this I created a bigger level with some assets from the Unreal store. 
 While asset placement and texturing has been done in engine, the mechanics are done using C++ as opposed to blueprints. For example the door opening and closing mechanics are coded into the game using C++. This has been a fun project, where I have been learning about pointers, FVectors and implementing game designer friendly parameters using UPROPERTY. I really enjoyed towards the end of the projects having a go at level design and figuring out how to make a level look realisitic.
 
 
-### Bull Cow Game - **[Code](https://github.com/StefEmp/BullCowGame)**
+### Bull Cow Game - **[Code](https://github.com/StefEmp/BullCowGame)** - **[Video](https://youtu.be/ObVzNoW1jsE)**
 Bull Cow Game is set in a 3D world. You have a sign post which you can type into. Once in the game press TAB to use the terminal.
 The basic idea is you need to guess the word. The word will be an "Isogram" an Isogram is a word that does not have repeating letters. 
 The game is created using the Unreal Engine and C++, the functionality of the terminal has been coded using C++ while the 3D aspects are done using the Unreal engine, such as asset placement, lighting, terrain and map generation. The main purpose of this project was learn C++ and implementing things such as loops, functions, arrays and other useful forms of C++.
+**If you want to watch a video summary click the image below!**
 
+[![BullCowGame](/BullCowGameImage.PNG)](https://youtu.be/ObVzNoW1jsE "BullCowGame")
 
 ### Netrunner - **[Code](https://github.com/StefEmp/Netrunner)** - **[Video](https://www.youtube.com/watch?v=zcMQp_VILNs&feature=youtu.be)**
 Netrunner is a basic game coded in C++. You are a hacker, you need to figure out the correct codes to progress. There are 5 levels to complete. The game is played in your terminal. I used this project to transfer my understanding of object oreintated programming from other languages to C++. 
