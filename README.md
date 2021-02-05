@@ -28,7 +28,7 @@ While asset placement and texturing has been done in engine, the mechanics are d
 
 **If you want to watch a video summary click the image below!**
 
-[![EscapeTheBuilding](/EscapeTheBuildingPicture.png)](https://youtu.be/teJxwSS8iN4 "EscapeTheBuilding")
+[![EscapeTheBuilding](/EscapeTheBuilding.png)](https://youtu.be/teJxwSS8iN4 "EscapeTheBuilding")
 
 ### Bull Cow Game - **[Code](https://github.com/StefEmp/BullCowGame)** - **[Video](https://youtu.be/ObVzNoW1jsE)**
 Bull Cow Game is set in a 3D world. You have a sign post which you can type into. Once in the game press TAB to use the terminal.
