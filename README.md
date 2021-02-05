@@ -22,16 +22,18 @@ I will over time be adding video links to showcase my understanding and also to 
 ### Escape The Building - **[Code](https://github.com/StefEmp/EscapeTheBuilding)** - **[Video](https://youtu.be/teJxwSS8iN4)**
 #### Overview
 This game is about escaping a building. I developed the gameplay mechanics on a test level. I created a basic room with a door and the player can place two objects on a trigger volume to open the door and escape. The mechanics I coded into the game were: door physics, linking a trigger volume to my door object and adding mass and gravity to the player pawn and objects. 
-Following this I created a bigger level with some assets from the Unreal store. The player has to find two statues and put them on two different pedestals to open double doors and escape the dungeon.
+
+Following this I created a bigger level with some assets from the Unreal store. The player has to find two statues and put them on two different pedestals to open the double doors and escape the dungeon.
+
 This has been a fun project, where I have been learning about pointers, FVectors and implementing game designer friendly parameters using UPROPERTY. It was also a good challenge to start making and thinking about level design.
 
 [![EscapeTheBuilding](/EscapeTheBuilding.png)](https://youtu.be/teJxwSS8iN4 "EscapeTheBuilding")
 
 ### Bull Cow Game - **[Code](https://github.com/StefEmp/BullCowGame)** - **[Video](https://youtu.be/ObVzNoW1jsE)**
 #### Overview
-Bull Cow Game is set in a 3D world. You have a sign post which you can type into. Once in the game press TAB to use the terminal.
-The basic idea is you need to guess the word. The word will be an "Isogram" an Isogram is a word that does not have repeating letters. 
-The game is created using the Unreal Engine and C++, the functionality of the terminal has been coded using C++ while the 3D aspects are done using the Unreal engine, such as asset placement, lighting, terrain and map generation. The main purpose of this project was learn C++ and implementing things such as loops, functions, arrays and other useful forms of C++.
+Bull Cow Game is set in a 3D world. You have a sign post which you can type into. 
+The basic idea is that you need to guess the word. The word will be an "Isogram" an Isogram is a word that does not have repeating letters. 
+The game is created using the Unreal Engine and C++, the functionality of the terminal has been coded using C++ while the 3D aspects are done using the Unreal engine, such as asset placement, lighting, terrain and map generation. The main purpose of this project was to learn C++ and implement things such as loops, functions, arrays and other useful forms of object oreintated langauge.
 
 [![BullCowGame](/BullCowGame.png)](https://youtu.be/ObVzNoW1jsE "BullCowGame")
 
