@@ -34,7 +34,7 @@ The game is created using the Unreal Engine and C++, the functionality of the te
 
 **If you want to watch a video summary click the image below!**
 
-[![BullCowGame](/BullCowGame.png)](https://youtu.be/ObVzNoW1jsE "BullCowGame")
+[![BullCowGame](/BullCowGame2.png)](https://youtu.be/ObVzNoW1jsE "BullCowGame")
 
 ### Netrunner - **[Code](https://github.com/StefEmp/Netrunner)** - **[Video](https://www.youtube.com/watch?v=zcMQp_VILNs&feature=youtu.be)**
 Netrunner is a basic game coded in C++. You are a hacker, you need to figure out the correct codes to progress. There are 5 levels to complete. The game is played in your terminal. I used this project to transfer my understanding of object oreintated programming from other languages to C++. 
