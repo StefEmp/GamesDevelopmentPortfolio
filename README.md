@@ -19,13 +19,16 @@ To translate my knowledge of object oriented programming from JavaScript and C# 
 I will over time be adding video links to showcase my understanding and also to hopefully make it easier for potential employers to see my projects without necessarily having to look through all my code (unless they want to!).
 
 
-### Escape The Building - **[Code](https://github.com/StefEmp/EscapeTheBuilding)** 
+### Escape The Building - **[Code](https://github.com/StefEmp/EscapeTheBuilding)** - **[Video](https://youtu.be/teJxwSS8iN4)**
 This game is about escaping a building (I know, it says it all in the title!). I developed the gameplay mechanics on a test level. I created a basic room with a door and the player can place two objects on a trigger volume to open the door and escape. The mechanics I coded into the game were, door physics, linking a trigger volume to my door object and adding mass and gravity to the player pawn and objects. 
 
 Following this I created a bigger level with some assets from the Unreal store. The player has to find two statues and put them on two different pedestals to open double doors and escape the dungeon.
 
 While asset placement and texturing has been done in engine, the mechanics are done using C++ as opposed to blueprints. For example the door opening and closing mechanics are coded into the game using C++. This has been a fun project, where I have been learning about pointers, FVectors and implementing game designer friendly parameters using UPROPERTY. I really enjoyed towards the end of the projects having a go at level design and figuring out how to make a level look realisitic.
 
+**If you want to watch a video summary click the image below!**
+
+[![EscapeTheBuilding](/EscapeTheBuildingPicture.png)](https://youtu.be/teJxwSS8iN4 "EscapeTheBuilding")
 
 ### Bull Cow Game - **[Code](https://github.com/StefEmp/BullCowGame)** - **[Video](https://youtu.be/ObVzNoW1jsE)**
 Bull Cow Game is set in a 3D world. You have a sign post which you can type into. Once in the game press TAB to use the terminal.
