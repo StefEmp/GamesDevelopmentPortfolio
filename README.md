@@ -20,6 +20,7 @@ I will over time be adding video links to showcase my understanding and also to 
 
 
 ### Escape The Building - **[Code](https://github.com/StefEmp/EscapeTheBuilding)** - **[Video](https://youtu.be/teJxwSS8iN4)**
+#### What does it do?
 This game is about escaping a building (I know, it says it all in the title!). I developed the gameplay mechanics on a test level. I created a basic room with a door and the player can place two objects on a trigger volume to open the door and escape. The mechanics I coded into the game were, door physics, linking a trigger volume to my door object and adding mass and gravity to the player pawn and objects. 
 
 Following this I created a bigger level with some assets from the Unreal store. The player has to find two statues and put them on two different pedestals to open double doors and escape the dungeon.
