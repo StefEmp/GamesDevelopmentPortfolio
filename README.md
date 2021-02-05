@@ -44,7 +44,7 @@ Netrunner is a basic game coded in C++. You are a hacker, you need to figure out
 
 **If you want to watch a video summary click the image below!**
 
-[![Netrunner](/netrunner.PNG)](https://youtu.be/zcMQp_VILNs "Netrunner")
+[![Netrunner](/netrunnerPicture.PNG)](https://youtu.be/zcMQp_VILNs "Netrunner")
 
 ## Other Projects
 
