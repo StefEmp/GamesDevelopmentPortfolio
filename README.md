@@ -29,7 +29,7 @@ The basic idea is you need to guess the word. The word will be an "Isogram" an I
 The game is created using the Unreal Engine and C++, the functionality of the terminal has been coded using C++ while the 3D aspects are done using the Unreal engine, such as asset placement, lighting, terrain and map generation. The main purpose of this project was learn C++ and implementing things such as loops, functions, arrays and other useful forms of C++.
 
 
-### Netrunner - **[Link](https://github.com/StefEmp/Netrunner)**
+### Netrunner - **[Code](https://github.com/StefEmp/Netrunner)** - **[Video](https://www.youtube.com/watch?v=zcMQp_VILNs&feature=youtu.be)**
 Netrunner is a basic game coded in C++. You are a hacker, you need to figure out the correct codes to progress. There are 5 levels to complete. The game is played in your terminal. I used this project to transfer my understanding of object oreintated programming from other languages to C++. 
 
 **If you want to watch a video summary click the image below!**
