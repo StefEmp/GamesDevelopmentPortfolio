@@ -16,7 +16,11 @@ I will over time be adding video links to showcase my understanding and also to 
 
 
 ### Escape The Building - **[Link](https://github.com/StefEmp/EscapeTheBuilding)** 
-This game is about escaping a building (I know, it says it all in the title!). The game currently is set in a single building. The player can stand on a trigger button to open the door. While asset placement and texturing has been done in engine, the mechanics are done using C++ as opposed to Blueprints. For example the door opening and closing mechanics are coded into the game using C++. I am currently in the process of implementing physics and my next focus will be to apply weight to objects which can be placed upon the trigger volume. If the right weight is used it will keep the door open. This has been a fun project, where I have been learning about pointers, FVectors and implementing game designer friendly parameters using UPROPERTY. If your a potential employer, this project may be finished by the time you read this, as I am close to finishing.
+This game is about escaping a building (I know, it says it all in the title!). I developed the gameplay mechanics on a test level. I created a basic room with a door and the player can place two objects on a trigger volume to open the door and escape. The mechanics I coded into the game were, door physics, linking a trigger volume to my door object and adding mass and gravity to the player pawn and objects. 
+
+Following this I created a bigger level with some assets from the Unreal store. The player has to find two statues and put them on two different pedestals to open double doors and escape the dungeon.
+
+While asset placement and texturing has been done in engine, the mechanics are done using C++ as opposed to blueprints. For example the door opening and closing mechanics are coded into the game using C++. This has been a fun project, where I have been learning about pointers, FVectors and implementing game designer friendly parameters using UPROPERTY. I really enjoyed towards the end of the projects having a go at level design and figuring out how to make a level look realisitic.
 
 
 ### Bull Cow Game - **[Link](https://github.com/StefEmp/BullCowGame)**
