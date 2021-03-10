@@ -43,6 +43,21 @@ Netrunner is a basic game coded in C++. You are a hacker, you need to figure out
 
 [![Netrunner](/NetrunnerPicture.png)](https://youtu.be/zcMQp_VILNs "Netrunner")
 
+### Mini C++ Projects
+
+Below is a list of a few mini projects I have worked on in C++ to start to develop my understanding of the language:
+
+* **[Equality Operators](https://github.com/StefEmp/EqualityOperators/blob/main/main.cpp)**
+* **[Mixed Expressions](https://github.com/StefEmp/MixedExpressions/blob/main/main.cpp)**
+* **[Application that works out change in pence and pounds](https://github.com/StefEmp/MoneyChangeLeftOver/blob/main/main.cpp)**
+* **[Switch Statements](https://github.com/StefEmp/SwitchStatements/blob/main/main.cpp)**
+* **[For Loops](https://github.com/StefEmp/ForLoops/blob/main/main.cpp)**
+* **[Range-based Loops](https://github.com/StefEmp/RangeBasedForLoops/blob/main/main.cpp)**
+* **[Do While Loops](https://github.com/StefEmp/DoWhileLoops/blob/main/main.cpp)**
+* **[Multiplication Table - Nested Loops](https://github.com/StefEmp/MultiplicationTableNestedLoops/blob/main/main.cpp)**
+* **[Histogram Application](https://github.com/StefEmp/HistogramNestedLoops/blob/main/main.cpp)**
+* **[Multiple Loop Application](https://github.com/StefEmp/IntegratingAllLoopLearningChallenge/blob/main/main.cpp)**
+
 ## Other Projects
 
 ### ReactSite - **[Code](https://github.com/StefEmp/ReactSite)**
