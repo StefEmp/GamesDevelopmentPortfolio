@@ -68,6 +68,9 @@ Soma is a band I sing and compose music for.
 
 [![Soma](/soma.png)](https://soma10.bandcamp.com/releases "Soma")
 
+### Solo Project -  **[Website](https://soundcloud.com/stefemp)**
+These are just some rough songs I've created using Ableton Live for fun!
+[![Soma](/soundcloud.png)](https://soundcloud.com/stefemp "Stef Emp")
 
 ### The Wonky Gamer - **[Website](https://www.wonkyspanner.com/podcasts/wonky-gamer)** 
 The Wonky Gamer is a podcast I host based on gaming news for the Wonky Spanner website. 
