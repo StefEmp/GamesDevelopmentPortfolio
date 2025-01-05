@@ -63,16 +63,19 @@ ReactSite is a projected created by Stephane Emptage and Alex Paiu whilst traini
 
 [![ReactSite](/reactsite.png)](https://github.com/StefEmp/ReactSite "ReactSite")
 
-### Soma - **[Website](https://soma10.bandcamp.com/releases)**
+### Soma - **[Band]**
 Soma is a band I sing and compose music for.
 
 [![Soma](/soma.png)](https://soma10.bandcamp.com/releases "Soma")
 
-### Solo Project -  **[Website](https://soundcloud.com/stefemp)**
+### Solo Project -  **Music**
+
 These are just some rough songs I've created using Ableton Live for fun!
+
 [![StefEmp](/soundcloud.PNG)](https://soundcloud.com/stefemp "Stef Emp")
 
 ### The Wonky Gamer - **[Website](https://www.wonkyspanner.com/podcasts/wonky-gamer)** 
+
 The Wonky Gamer is a podcast I host based on gaming news for the Wonky Spanner website. 
 
 [![Wonky Gamer](/wonkygamer.png)](https://www.wonkyspanner.com/podcasts/wonky-gamer "Wonky Gamer")
