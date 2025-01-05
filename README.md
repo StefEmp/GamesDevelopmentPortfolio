@@ -11,6 +11,7 @@ I am a Software Developer hoping to make the jump to Game Development. I have be
 ## My Projects
 
 ### Overview
+A few years ago I spent some time learning a few things about C++ to gain a bit experience in a new language, and one that is popular in game development, you can see a few adventures below:
 
 To translate my knowledge of object oriented programming from JavaScript and C# to C++ and the Unreal Engine I am following **[this](https://www.udemy.com/course/unrealcourse/)**  course on udemy. I have avoided blueprint heavy courses for the time being. This is mainly because while blueprints are very useful (and I have been using them in a side project) I want to ensure I have a good core understanding of C++ as I understand that more complex work in the games industry relies upon C++ more often than blueprints. To further my undetstanding of C++ I have also been following **[this](https://www.udemy.com/course/beginning-c-plus-plus-programming/)**  course to learn more about pure C++.
 
