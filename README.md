@@ -4,7 +4,7 @@
 
 ## Introduction
 
-I am a budding game developer, hoping to break into the industry. I am close to finishing an Apprenticeship in Software Development Level 4 (end date March 2021). I have been spending most of my free time learning C++ and the Unreal Engine. You can see some of my projects below and a description about what they do.
+I am a Software Developer hoping to make the jump to Game Development. I have been programming since 2019, starting out on an Apprenticeship Scheme in London! Below are a few little projects I've worked on in the past. While I have more recently worked on other projects outside of work, those projects don't have code available to the public at this time unfortunately.
 
 * **[Learn a little about me](https://github.com/StefEmp/GamesDevelopmentPortfolio/blob/main/Intro.pdf)**
 
