@@ -63,7 +63,7 @@ Below is a list of a few mini projects I have worked on in C++ to start to devel
 
 This was a project I worked on over a weekend when applying for my role at Live 5 back when I was a Junior Developer. It's a basic game where you can play the lottery!
 
-[![Cosmic Space Lottery](/cosmic.png)](https://github.com/StefEmp/CosmicSpaceLottery "CosmicSpaceLottery") 
+[![Cosmic Space Lottery](/cosmic.PNG)](https://github.com/StefEmp/CosmicSpaceLottery "CosmicSpaceLottery") 
 
 ### ReactSite - **[Code](https://github.com/StefEmp/ReactSite)**
 ReactSite is a projected created by Stephane Emptage and Alex Paiu whilst training in their apprenticeship. It is a proof of concept to show the business a prototype of what a React based recruitment site would look like and how it would work, when the business eventually transitions to using React. Langauges used: C#, TypeScript, JavaScript, CSS, HTML, Semantic UI.
